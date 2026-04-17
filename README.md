@@ -12,6 +12,4 @@ Then just use as you would a normal plt cm
 
 ## Colourmaps 
 
-### nanoanalysis bright 
-![nanoanalysis bright](./nanoanalysis_bright.png)
 
