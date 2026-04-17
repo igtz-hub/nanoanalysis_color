@@ -12,11 +12,11 @@ Then just use as you would a normal plt cm
 
 ## Colourmaps 
 ### Bright
-![nanoanalysis_bright](./nanoanalysis_bright.png)
-![nanoanalysis_bright](./bright_test.png)
+<img src="./nanoanalysis_bright.png" width="300">
+<img src="./bright_test.png" width="300">
 ### Muted
-![nanoanalysis_muted](./nanoanalysis_muted.png)
-![nanoanalysis_muted](./muted_test.png)
+<img src="./nanoanalysis_muted.png" width="300">
+<img src="./muted_test.png" width="300">
 ### Hazy
-![nanoanalysis_hazy](./nanoanalysis_hazy.png)
-![nanoanalysis_hazy](./hazy_test.png)
+<img src="./nanoanalysis_hazy.png" width="300">
+<img src="./hazy_test.png" width="300">
