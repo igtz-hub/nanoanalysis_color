@@ -6,5 +6,4 @@ pip install git+https://github.com/igtz-hub/my_colormaps.git
 
 ## How to use in file 
 import my_colormaps
-import matplotlib.pyplot as plt     
-# then just use as you would a normal plt cm
+import matplotlib.pyplot as plt     #then just use as you would a normal plt cm
