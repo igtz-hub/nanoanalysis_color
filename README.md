@@ -2,7 +2,7 @@
 The nanoanlysis colour package for custom Matplotlib colourmaps
 
 ## Installation
-pip install git+https://github.com/igtz-hub/my_colormaps.git
+pip install git+https://github.com/igtz-hub/nanoanalysis_cm.git
 
 ## How to use in file 
 import my_colormaps
